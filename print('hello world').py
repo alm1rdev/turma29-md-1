@@ -1,4 +1,4 @@
-an=int(input('ano de nascimento?'))
-ano=int(input('ano atual?'))
+an=float(input('ano de nascimento?'))
+ano= 2025
 idade = ano -an
 print(f'voce tem{idade}anos!')
